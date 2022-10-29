@@ -4,6 +4,7 @@ import org.testng.annotations.Test;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.instanceOf;
 
+
 public class ContinentsQueriesTest extends Queries {
 
     Data data = new Data();
